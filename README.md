@@ -40,13 +40,13 @@
 
 A citizen can identify a real problem.
 
-A department can receive it.
+A government department may be responsible for it.
 
-A university may have the expertise.
+A university may have the expertise to understand it.
 
-An industry or CSR partner may have the resources.
+An industry or CSR partner may have the resources to help implement a solution.
 
-But when those stakeholders remain disconnected, the problem can remain stuck between them.
+But when these stakeholders remain disconnected, the problem can stay stuck between them.
 
 **SETU is designed to become the bridge.**
 
@@ -54,13 +54,13 @@ Not another isolated complaint box.
 
 Not another disconnected dashboard.
 
-A system that connects the **problem, the evidence, the people and the institutions capable of acting on it.**
+A platform that connects the **problem, the evidence, the people and the institutions capable of moving it forward.**
 
 ---
 
 <div align="center">
 
-# THE SETU LOOP
+# THE SETU JOURNEY
 
 <br>
 
@@ -68,11 +68,11 @@ A system that connects the **problem, the evidence, the people and the instituti
 
 <br><br>
 
-```mermaid id="k2c8mv"
+```mermaid
 flowchart LR
     A(["CITIZEN"]) --> B["PROBLEM + EVIDENCE"]
     B --> C["VALIDATION"]
-    C --> D{"RIGHT STAKEHOLDERS"}
+    C --> D{"STAKEHOLDERS"}
 
     D --> E["GOVERNMENT"]
     D --> F["UNIVERSITY"]
@@ -111,9 +111,7 @@ flowchart LR
 
 ### CITIZEN
 
-<sub>
-Finds the problem
-</sub>
+<sub>Finds the problem</sub>
 
 </td>
 
@@ -123,9 +121,7 @@ Finds the problem
 
 ### GOVERNMENT
 
-<sub>
-Handles the public issue
-</sub>
+<sub>Handles the public issue</sub>
 
 </td>
 
@@ -135,9 +131,7 @@ Handles the public issue
 
 ### UNIVERSITY
 
-<sub>
-Brings knowledge
-</sub>
+<sub>Brings knowledge</sub>
 
 </td>
 
@@ -147,9 +141,7 @@ Brings knowledge
 
 ### INDUSTRY
 
-<sub>
-Brings resources
-</sub>
+<sub>Brings resources</sub>
 
 </td>
 
@@ -159,9 +151,7 @@ Brings resources
 
 ### IMPACT
 
-<sub>
-Returns to the community
-</sub>
+<sub>Returns to the community</sub>
 
 </td>
 
@@ -172,41 +162,39 @@ Returns to the community
 
 <br>
 
-SETU's core idea is simple:
+SETU is built around a simple idea:
 
 > **The person who identifies the problem does not have to be the person who solves it.**
 
-The platform exists to help connect that problem to the stakeholder who can move it forward.
+The platform helps connect that problem to the stakeholder who can contribute to the solution.
 
 ---
 
-# FROM A LOCAL PROBLEM TO A COLLABORATIVE SOLUTION
+# FROM PROBLEM TO POSSIBILITY
 
-### A citizen submits an issue.
+### A citizen identifies an issue
 
 Descriptions, location information and supporting evidence help establish the context around the problem.
 
-### The community adds visibility.
+### The community adds visibility
 
-Common issues can be discovered and supported by other citizens, allowing shared concerns to become visible.
+Citizens can discover common issues and support them, making shared concerns easier to recognize.
 
-### Government receives the operational responsibility.
+### Government receives operational responsibility
 
-Relevant departments get access to the complaints associated with their area of responsibility.
+Relevant departments receive access to complaints associated with their assigned category.
 
-### Universities can contribute expertise.
+### Universities contribute expertise
 
-Research, technical knowledge and academic recommendations can enter the solution process.
+Research, technical knowledge and academic recommendations can become part of the solution process.
 
-### Industry and CSR can contribute resources.
+### Industry and CSR contribute resources
 
-Implementation support, materials, funding or practical expertise can become part of the response.
+Funding, materials, practical expertise or implementation support can be brought into the ecosystem.
 
-### The outcome comes back to the community.
+### The outcome reaches the community
 
-SETU is designed around a continuous loop:
-
-**Problem → Collaboration → Solution → Community Impact**
+The goal is to move beyond a submitted complaint toward a **validated, collaborative and measurable response**.
 
 ---
 
@@ -224,7 +212,7 @@ SETU is designed around a continuous loop:
 
 ---
 
-# WHAT EACH SIDE SEES
+# WHAT EACH STAKEHOLDER GETS
 
 <table>
 <tr>
@@ -235,19 +223,19 @@ SETU is designed around a continuous loop:
 
 **REPORT**
 
-Submit issues with descriptions, location details and evidence.
+Submit issues with descriptions, locations and evidence.
 
 **DISCOVER**
 
-Find common issues around the community.
+Explore common problems reported by others.
 
 **SUPPORT**
 
-Upvote issues that affect the wider community.
+Upvote issues affecting the wider community.
 
 **TRACK**
 
-Follow submitted complaint progress.
+Follow personally submitted complaints.
 
 </td>
 
@@ -257,11 +245,11 @@ Follow submitted complaint progress.
 
 **RECEIVE**
 
-Access complaints relevant to the assigned department.
+Access complaints relevant to the department.
 
 **PRIORITIZE**
 
-Work with urgency and severity information.
+Use urgency and severity to organize response.
 
 **MANAGE**
 
@@ -269,7 +257,7 @@ Move complaints through an operational lifecycle.
 
 **RESOLVE**
 
-Complete the resolution workflow with verification.
+Complete the resolution process with verification.
 
 </td>
 
@@ -279,15 +267,15 @@ Complete the resolution workflow with verification.
 
 **RESEARCH**
 
-Study real community challenges.
+Study real-world community challenges.
 
 **ADVISE**
 
-Provide technical and academic recommendations.
+Provide academic and technical recommendations.
 
 **COLLABORATE**
 
-Connect expertise to real problems.
+Connect expertise with problems that need it.
 
 </td>
 
@@ -295,13 +283,13 @@ Connect expertise to real problems.
 
 ### INDUSTRY / CSR
 
-**SUPPORT**
+**IDENTIFY**
 
-Identify problems where resources can help.
+Discover areas where support may be useful.
 
 **CONTRIBUTE**
 
-Provide implementation support and practical expertise.
+Provide resources, expertise or implementation support.
 
 **PARTNER**
 
@@ -320,36 +308,35 @@ Work alongside institutions toward deployment.
 
 <br>
 
-```text id="y6we0y"
-             PROBLEM
-                │
-                ▼
-             EVIDENCE
-                │
-                ▼
-            VALIDATION
-                │
-                ▼
-        ┌───────┼────────┐
-        ▼       ▼        ▼
-    GOVERNMENT  UNIVERSITY  INDUSTRY
-        │       │        │
-        └───────┼────────┘
-                ▼
-           COLLABORATION
-                │
-                ▼
-        PROTOTYPE / PILOT
-                │
-                ▼
-          REAL-WORLD IMPACT
+```text
+                        PROBLEM
+                           │
+                           ▼
+                        EVIDENCE
+                           │
+                           ▼
+                       VALIDATION
+                           │
+                ┌──────────┼──────────┐
+                ▼          ▼          ▼
+          GOVERNMENT   UNIVERSITY   INDUSTRY
+                │          │          │
+                └──────────┼──────────┘
+                           ▼
+                     COLLABORATION
+                           │
+                           ▼
+                    PROTOTYPE / PILOT
+                           │
+                           ▼
+                    REAL-WORLD IMPACT
 ```
 
 </div>
 
 ---
 
-# THE PRODUCT LAYERS
+# THE PLATFORM LAYERS
 
 <div align="center">
 
@@ -385,9 +372,11 @@ Progress · Outcomes · Community Feedback
 
 ---
 
+<div align="center">
+
 # BUILT TO CONNECT
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,python,postgres,postgis" alt="SETU technology stack"/>
 
@@ -406,11 +395,9 @@ Progress · Outcomes · Community Feedback
 
 ---
 
-<div align="center">
-
 # THE EXPERIENCE
 
-<br>
+<div align="center">
 
 ### **A citizen sees the problem.**
 
@@ -418,10 +405,12 @@ Progress · Outcomes · Community Feedback
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=900&height=40&lines=CITIZEN+%E2%86%92+EVIDENCE;EVIDENCE+%E2%86%92+VALIDATION;VALIDATION+%E2%86%92+COLLABORATION;COLLABORATION+%E2%86%92+IMPLEMENTATION;IMPLEMENTATION+%E2%86%92+IMPACT" alt="SETU pipeline"/>
+
+<br><br>
+
 <a href="https://setu-connect.vercel.app/">
-
-<img src="https://img.shields.io/badge/OPEN%20SETU%20↗-09090B?style=for-the-badge&labelColor=09090B&color=7C3AED" />
-
+<img src="https://img.shields.io/badge/OPEN%20SETU%20%E2%86%97-09090B?style=for-the-badge&labelColor=09090B&color=7C3AED" />
 </a>
 
 <br><br>
@@ -434,7 +423,7 @@ Progress · Outcomes · Community Feedback
 
 <div align="center">
 
-# BUILT FOR A DIFFERENT KIND OF CIVIC PLATFORM
+# WHY SETU
 
 <br>
 
@@ -443,11 +432,9 @@ Progress · Outcomes · Community Feedback
 
 <td align="center" width="25%">
 
-### REPORT
+### IDENTIFY
 
-<sub>
-A problem enters the system.
-</sub>
+<sub>Find real problems.</sub>
 
 </td>
 
@@ -455,9 +442,7 @@ A problem enters the system.
 
 ### CONNECT
 
-<sub>
-The right stakeholders enter the loop.
-</sub>
+<sub>Bring the right people together.</sub>
 
 </td>
 
@@ -465,9 +450,7 @@ The right stakeholders enter the loop.
 
 ### COLLABORATE
 
-<sub>
-Knowledge and resources come together.
-</sub>
+<sub>Combine expertise and resources.</sub>
 
 </td>
 
@@ -475,9 +458,7 @@ Knowledge and resources come together.
 
 ### IMPACT
 
-<sub>
-The solution returns to the people.
-</sub>
+<sub>Move toward real-world outcomes.</sub>
 
 </td>
 
@@ -488,13 +469,35 @@ The solution returns to the people.
 
 ---
 
-# THE PEOPLE BEHIND SETU
+# A DIFFERENT KIND OF CIVIC PLATFORM
+
+SETU is not designed around a single organization solving every problem.
+
+It is designed around an **ecosystem**.
+
+A citizen can surface a problem.
+
+A government department can act on it.
+
+A university can contribute knowledge.
+
+An industry partner can contribute resources.
+
+And the resulting solution can be taken back to the community.
+
+### **The platform connects the pieces that already exist.**
+
+---
 
 <div align="center">
 
-### **Five contributors. One bridge.**
+# THE TEAM
 
 <br>
+
+### **Built together. Shaped together.**
+
+<br><br>
 
 <table>
 <tr>
@@ -503,17 +506,17 @@ The solution returns to the people.
 
 <a href="https://github.com/nithixh">
 
+<img src="https://github.com/nithixh.png?size=180" width="105" height="105" alt="Nithixh"/>
+
+<br><br>
+
 <strong>NITHIXH</strong>
 
 </a>
 
-<br><br>
+<br>
 
-<a href="../../commits?author=nithixh">
-
-<sub>view commits ↗</sub>
-
-</a>
+<sub>@nithixh</sub>
 
 </td>
 
@@ -521,17 +524,17 @@ The solution returns to the people.
 
 <a href="https://github.com/LoganathRK">
 
+<img src="https://github.com/LoganathRK.png?size=180" width="105" height="105" alt="Loganath RK"/>
+
+<br><br>
+
 <strong>LOGANATH RK</strong>
 
 </a>
 
-<br><br>
+<br>
 
-<a href="../../commits?author=LoganathRK">
-
-<sub>view commits ↗</sub>
-
-</a>
+<sub>@LoganathRK</sub>
 
 </td>
 
@@ -539,17 +542,17 @@ The solution returns to the people.
 
 <a href="https://github.com/vishalisaravanan127">
 
+<img src="https://github.com/vishalisaravanan127.png?size=180" width="105" height="105" alt="Vishali Saravanan"/>
+
+<br><br>
+
 <strong>VISHALI SARAVANAN</strong>
 
 </a>
 
-<br><br>
+<br>
 
-<a href="../../commits?author=vishalisaravanan127">
-
-<sub>view commits ↗</sub>
-
-</a>
+<sub>@vishalisaravanan127</sub>
 
 </td>
 
@@ -557,17 +560,17 @@ The solution returns to the people.
 
 <a href="https://github.com/NITHISH-2207">
 
+<img src="https://github.com/NITHISH-2207.png?size=180" width="105" height="105" alt="Nithish"/>
+
+<br><br>
+
 <strong>NITHISH</strong>
 
 </a>
 
-<br><br>
+<br>
 
-<a href="../../commits?author=NITHISH-2207">
-
-<sub>view commits ↗</sub>
-
-</a>
+<sub>@NITHISH-2207</sub>
 
 </td>
 
@@ -575,29 +578,31 @@ The solution returns to the people.
 
 <a href="https://github.com/nirmal-kumar-v">
 
+<img src="https://github.com/nirmal-kumar-v.png?size=180" width="105" height="105" alt="Nirmal Kumar V"/>
+
+<br><br>
+
 <strong>NIRMAL KUMAR V</strong>
 
 </a>
 
-<br><br>
+<br>
 
-<a href="../../commits?author=nirmal-kumar-v">
-
-<sub>view commits ↗</sub>
-
-</a>
+<sub>@nirmal-kumar-v</sub>
 
 </td>
 
 </tr>
 </table>
 
-<br>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2400&pause=850&color=A78BFA&center=true&vCenter=true&width=800&height=38&lines=FIVE+MINDS.;ONE+VISION.;ONE+BRIDGE." alt="Team"/>
+
+<br><br>
 
 <sub>
-
-The commit links above are relative GitHub links, so they automatically open this repository's contributor-specific commit history.
-
+SETU was developed collaboratively by all five contributors across product thinking, engineering, design, integration, testing and presentation.
 </sub>
 
 </div>
@@ -605,6 +610,8 @@ The commit links above are relative GitHub links, so they automatically open thi
 ---
 
 <div align="center">
+
+<br>
 
 # SETU
 
